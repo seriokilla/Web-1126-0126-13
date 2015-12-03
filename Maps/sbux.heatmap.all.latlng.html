@@ -42,7 +42,7 @@ function initMap() {
 
 function getPoints(){
   var heatmapdata = new Array();
-  d3.tsv("../data/starbucks.all.tsv", function(err, data) {
+  d3.tsv("../data/sbux.latlng.all.tsv", function(err, data) {
   
         data.forEach(function(d){
           //console.log(d.Latitude + " " + d.Longitude);
