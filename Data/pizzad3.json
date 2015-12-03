@@ -1,0 +1,26 @@
+[
+	{
+		"pizza": "Mushrooms",
+		"count": 3
+	},
+	{
+		"pizza": "Onions",
+		"count": 1
+	},
+	{
+		"pizza": "Olives",
+		"count": 1
+	},
+	{
+		"pizza": "Zucchini",
+		"count": 1
+	},
+	{
+		"pizza": "Pepperoni",
+		"count": 2
+	},
+	{
+		"pizza": "Bacon",
+		"count": 7
+	}
+]

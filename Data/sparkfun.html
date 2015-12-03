@@ -14,7 +14,7 @@
         var public_key = 'dZ4EVmE8yGCRGx5XRX1W';
 
         // JSONP request
-        var jsonData = $.ajax({
+       $.ajax({
           url: 'https://data.sparkfun.com/output/' + public_key + '.json',
           data: {page: 1},
           dataType: 'jsonp',
